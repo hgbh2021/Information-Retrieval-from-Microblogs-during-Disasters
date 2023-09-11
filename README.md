@@ -1,7 +1,7 @@
 **********************************************************************************************************************************************************************************************
 NOTE - Running the below tasks require atleast 16 GB RAM. Tasks files are provided in the same folder, as well as please find the google colab file links.
-Task 1 - https://colab.research.google.com/drive/1E3l7049ihDsZjXpMv4mdDbsCeNxcn8_K?usp=sharing
-Task 2 - https://colab.research.google.com/drive/18zcBObnFhswudk6Iv9d5o1P_YBPjuffZ?usp=sharing
+Task 1 - https://colab.research.google.com/drive/1o-dTMdBQ-ysX1t1SzYh7CBWWLl8duje3?usp=sharing
+Task 2 - https://colab.research.google.com/drive/1W9TcCuEvk1X9a0QzWtuq-pNLKh02Bk9D?usp=sharing
 **********************************************************************************************************************************************************************************************
 
 1. Folder -> Task1 :-
